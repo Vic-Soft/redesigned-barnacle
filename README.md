@@ -8,6 +8,10 @@ A projected targeted at learning experience
 - [ ] Don't rely on cramming
 - [ ] Be passionate and determined
 
-For more [visit][id]  
+For more, visit [here][id]  
 
 [id]: https://google.com "web-search"
+
+Please endeavour to visit [StakeAfrik][] too
+
+[StakeAfrik]: https://www.stakeafrik.com "Stake Here"
