@@ -15,3 +15,7 @@ For more, visit [here][id]
 Please endeavour to visit [StakeAfrik][] too
 
 [StakeAfrik]: https://www.stakeafrik.com "Stake Here"
+
+>Note  
+>>Always strive to be the best version of yourself at  
+your craft.
